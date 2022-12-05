@@ -1,3 +1,4 @@
+YouTube Shorts Playlist: https://www.youtube.com/playlist?list=PLc7mKAo-647G4vmKBKxETnXpPFWuK5hah
 
 #1 Sprigatito ニャオハ - Grass - 
 
