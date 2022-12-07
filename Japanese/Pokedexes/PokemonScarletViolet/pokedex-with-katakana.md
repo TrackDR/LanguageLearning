@@ -274,6 +274,6 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 
 
-
+#216 JigglyPuff ヒメグマ Normal Fairy - PuffPuff
 
 
