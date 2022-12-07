@@ -272,8 +272,8 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #135 Gyarados
 
-
-
 #215 Teddiursa ヒメグマ Normal Psychic - MoonBear
+
+#221 Skiddo メェークル Grass - Gooot
 
 
