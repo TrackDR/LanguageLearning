@@ -120,7 +120,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #59 Igglybuff
 
-#60 Jigglypuff プリン - Normal - Fairy - 
+#60 Jigglypuff プリン - Normal - Fairy - PuffPuff
 
 #61 Wigglytuff
 
