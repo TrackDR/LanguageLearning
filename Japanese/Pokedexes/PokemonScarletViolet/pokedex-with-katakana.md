@@ -2,29 +2,29 @@ YouTube Shorts Playlist: https://www.youtube.com/playlist?list=PLc7mKAo-647G4vmK
 
 Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
-#1 Sprigatito ニャオハ - Grass - 
+#1 Sprigatito ニャオハ Grass - 
 
 #2 Floragato 
 
 #3 Meowscarada 
 
-#4 Fuecoco ホゲータ - Fire - FireGhost
+#4 Fuecoco ホゲータ Fire - FireGhost
 
-#5 Crocalor アチゲータ - Fire - FireGhost
+#5 Crocalor アチゲータ Fire - FireGhost
 
 #6 Skeledirge 
 
-#7 Quaxly クワッス - Water - 
+#7 Quaxly クワッス Water - 
 
 #8 Quaxwell 
 
 #9 Quaquaval 
 
-#10 Lechonk グルトン - Normal - LeOinkOink
+#10 Lechonk グルトン Normal - LeOinkOink
 
 #11 Oinkologne 
 
-#12 Tarountula タマンチュラ - Bug - SpideySweetP
+#12 Tarountula タマンチュラ Bug - SpideySweetP
 
 #13 Spidops 
 
@@ -32,21 +32,21 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #15 Lokix 
 
-#16 Hoppip ハネッコ - Grass - Flying - SwirlyG
+#16 Hoppip ハネッコ Grass Flying - SwirlyG
 
 #17 Skiploom
 
 #18 Jumpluff
 
-#19 Fletchling ヤヤコマ - Normal - Flying - RoundRobin 
+#19 Fletchling ヤヤコマ Normal Flying - RoundRobin 
 
 #20 Fletchinder 
 
 #21 Talonflame 
 
-#22 Pawmi パモ - Electric - TeddyMouse
+#22 Pawmi パモ Electric - TeddyMouse
 
-#23 Pawmo パモット - Electric - Fighting - TeddyMouse
+#23 Pawmo パモット Electric Fighting - TeddyMouse
 
 #24 Pawmot 
 
@@ -54,23 +54,23 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #26 Houndoom 
 
-#27 Yungoos ヤングース - Normal - 
+#27 Yungoos ヤングース Normal - 
 
-#28 Gumshoos デカグース - Normal - 
+#28 Gumshoos デカグース Normal - 
 
-#29 Skwovet ホシガリス - Normal - StuffedCheek
+#29 Skwovet ホシガリス Normal - StuffedCheek
 
 #30 Greedent 
 
-#31 Sunkern ヒマナッツ - Grass - Sunny
+#31 Sunkern ヒマナッツ Grass - Sunny
 
-#32 Sunflora キマワリ - Grass - 
+#32 Sunflora キマワリ Grass - 
 
-#33 Kricketot コロボーシ - Bug - 
+#33 Kricketot コロボーシ Bug - 
 
 #34 Kricketune 
 
-#35 Scatterbug コフキムシ - Bug - ScatBug
+#35 Scatterbug コフキムシ Bug - ScatBug
 
 #36 Spewpa 
 
@@ -80,21 +80,21 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #39 Vespiquen 
 
-#40 Rookidee ココガラ - Flying - Owlee
+#40 Rookidee ココガラ Flying - Owlee
 
-#41 Corvisquire アオガラス - Flying - 
+#41 Corvisquire アオガラス Flying - 
 
 #42 Corviknight 
 
-#43 Happiny ピンプク - Normal - BabyRock
+#43 Happiny ピンプク Normal - BabyRock
 
 #44 Chansey
 
 #45 Blissey
 
-#46 Azurill ルリリ - Normal - Fairy - MightyMouse
+#46 Azurill ルリリ Normal - Fairy - MightyMouse
 
-#47 Marill 
+#47 Marill マリル Water Fairy - BlueFairy
 
 #48 Azumarill
 
@@ -110,7 +110,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #54 Clodsire
 
-#55 Psyduck コダック - Water - Quackers
+#55 Psyduck コダック Water - Quackers
 
 #56 Golduck 
 
@@ -120,11 +120,11 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #59 Igglybuff
 
-#60 Jigglypuff プリン - Normal - Fairy - PuffPuff
+#60 Jigglypuff プリン Normal - Fairy - PuffPuff
 
 #61 Wigglytuff
 
-#62 Ralts ラルトス - Psychic - Fairy - Troi
+#62 Ralts ラルトス Psychic - Fairy - Troi
 
 #63 Kirlia
 
@@ -152,7 +152,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #75 Raichu
 
-#76 Fidough パピモッチ - Fairy - Scrappy
+#76 Fidough パピモッチ Fairy - Scrappy
 
 #77 Dachsbun 
 
@@ -162,7 +162,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #80 Slaking
 
-#81 Bounsweet アマカジ - Grass
+#81 Bounsweet アマカジ Grass
 
 #82 Steenee
 
@@ -174,7 +174,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #86 Arboliva
 
-#87 Bonsly ウソハチ - Rock - BonsaiT
+#87 Bonsly ウソハチ Rock - BonsaiT
 
 #88 Sudowoodo 
 
@@ -200,7 +200,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #99 Staraptor
 
-#100 Oricorio オドリドリ - Electric, Flying - LilFry 
+#100 Oricorio オドリドリ Electric Flying - LilFry 
 
 #101 Mareep 
 
@@ -270,16 +270,37 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #134 Magikarp
 
-#135 Gyarados
+#135 Gyarados ギャラドス Water Flying - GyaradosG
 
 #165 Charcadet カルボウ Fire - Charcadet
 
+#178 Kilowattrel タイカイデン Electric Flying - EDiverG
+
 #204 Stantler オドシシ Normal - StanLee
 
+#209 Magnemite コイル Electric Steel - EM
+
 #215 Teddiursa ヒメグマ Normal Psychic - MoonBear
+
+#216 Ursaring リングマ Normal - MoonBear
+
+#288 Wiglett ウミディグダ Water - Wiggles
 
 #221 Skiddo メェークル Grass - Gooot
 
 #224 Litleo シシコ Fire Normal - LeoD
 
+#289 Wugtrio ウミトリオ Water - Wuggies
+
+#291 Finizen ナミイルカ Water - SonicG
+
+#321 Pincurchin バチンウニ Electric - SpikyPins
+
+#322 Sandygast スナバァ Ghost Ground - SandyShovel
+
+#324 Slowpoke ヤドン Water Psychic - Pinkerton
+
+#344 Mareanie ヒドイデ Poison Water - StarSpikes
+
+#345 Toxapex ドヒドイデ Poison Water - ToxaSpike
 
