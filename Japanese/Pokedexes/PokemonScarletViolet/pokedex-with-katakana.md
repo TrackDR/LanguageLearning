@@ -12,7 +12,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #5 Crocalor アチゲータ Fire - FireGhost
 
-#6 Skeledirge 
+#6 Skeledirge ラウドボーン Fire - FireGhost
 
 #7 Quaxly クワッス Water - 
 
