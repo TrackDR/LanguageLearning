@@ -2,205 +2,206 @@ YouTube Shorts Playlist: https://www.youtube.com/playlist?list=PLc7mKAo-647G4vmK
 
 Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
-#1 Sprigatito ニャオハ Grass - 
+#1 Sprigatito ニャオハ Grass - Catnip
 
-#2 Floragato 
+#2 Floragato フロラガト Grass - FloraFeline
 
-#3 Meowscarada 
+#3 Meowscarada マスカーニャ Grass Dark - Magician
 
-#4 Fuecoco ホゲータ Fire - FireGhost
+#4 Fuecoco ホゲータ Fire - HotCroc
 
-#5 Crocalor アチゲータ Fire - FireGhost
+#5 Crocalor アチゲータ Fire - HeatSaurus
 
-#6 Skeledirge ラウドボーン Fire - FireGhost
+#6 Skeledirge ラウドボーン Fire Ghost - BoneSinger
 
-#7 Quaxly クワッス Water - 
+#7 Quaxly クワッス Water - AquaDuck
 
-#8 Quaxwell 
+#8 Quaxwell ウェルカモ Water - DanceDucky
 
-#9 Quaquaval 
+#9 Quaquaval ウェルカモル Water Fighting - SambaSwan
 
-#10 Lechonk グルトン Normal - LeOinkOink
+#10 Lechonk グルトン Normal - Porky
 
-#11 Oinkologne 
+#11 Oinkologne パフュートン Normal - PerfumePig
 
-#12 Tarountula タマンチュラ Bug - SpideySweetP
+#12 Tarountula タマンチュラ Bug - WebSpinner
 
-#13 Spidops 
+#13 Spidops ワナイダー Bug - TrapSpider
 
-#14 Nymble 
+#14 Nymble マメバッタ Bug - QuickGrass
 
-#15 Lokix 
+#15 Lokix ロクサス Bug Dark - KickBox
 
-#16 Hoppip ハネッコ Grass Flying - SwirlyG
+#16 Hoppip ハネッコ Grass Flying - Floaty
 
-#17 Skiploom
+#17 Skiploom ポポッコ Grass Flying - Jumper
 
-#18 Jumpluff
+#18 Jumpluff ワタッコ Grass Flying - Fluffer
 
-#19 Fletchling ヤヤコマ Normal Flying - RoundRobin 
+#19 Fletchling ヤヤコマ Normal Flying - TinyRobin
 
-#20 Fletchinder 
+#20 Fletchinder ヒノヤコマ Fire Flying - FlameBird
 
-#21 Talonflame 
+#21 Talonflame ファイアロー Fire Flying - Scorcher
 
-#22 Pawmi パモ Electric - TeddyMouse
+#22 Pawmi パモ Electric - ShockMouse
 
-#23 Pawmo パモット Electric Fighting - TeddyMouse
+#23 Pawmo パモット Electric Fighting - PunchMouse
 
-#24 Pawmot 
+#24 Pawmot パモット Electric Fighting - ZapPunch
 
-#25 Houndour 
+#25 Houndour デルビル Dark Fire - DarkPup
 
-#26 Houndoom 
+#26 Houndoom ヘルガー Dark Fire - Hellhound
 
-#27 Yungoos ヤングース Normal - 
+#27 Yungoos ヤングース Normal - GumShoo
 
-#28 Gumshoos デカグース Normal - 
+#28 Gumshoos デカグース Normal - Detective
 
-#29 Skwovet ホシガリス Normal - StuffedCheek
+#29 Skwovet ホシガリス Normal - CheekPuff
 
-#30 Greedent 
+#30 Greedent ヨクバリス Normal - ChubbyCheeks
 
 #31 Sunkern ヒマナッツ Grass - Sunny
 
-#32 Sunflora キマワリ Grass - 
+#32 Sunflora キマワリ Grass - Sunflower
 
-#33 Kricketot コロボーシ Bug - 
+#33 Kricketot コロボーシ Bug - Chirpy
 
-#34 Kricketune 
+#34 Kricketune コロトック Bug - Tune
 
 #35 Scatterbug コフキムシ Bug - ScatBug
 
-#36 Spewpa 
+#36 Spewpa コフーライ Bug - Cocoon
 
-#37 Vivllion 
+#37 Vivillon ビビヨン Bug Flying - PatternWing
 
-#38 Combee
+#38 Combee ミツハニー Bug Flying - Honeybee
 
-#39 Vespiquen 
+#39 Vespiquen ビークイン Bug Flying - QueenBee
 
-#40 Rookidee ココガラ Flying - Owlee
+#40 Rookidee ココガラ Flying - Rook
 
-#41 Corvisquire アオガラス Flying - 
+#41 Corvisquire アオガラス Flying - Squire
 
-#42 Corviknight 
+#42 Corviknight アーマーガア Flying Steel - Knight
 
 #43 Happiny ピンプク Normal - BabyRock
 
-#44 Chansey
+#44 Chansey ラッキー Normal - Nurse
 
-#45 Blissey
+#45 Blissey ハピナス Normal - Bliss
 
-#46 Azurill ルリリ Normal - Fairy - MightyMouse
+#46 Azurill ルリリ Normal Fairy - MightyMouse
 
 #47 Marill マリル Water Fairy - BlueFairy
 
-#48 Azumarill
+#48 Azumarill マリルリ Water Fairy - AquaFairy
 
-#49 Surskit
+#49 Surskit アメタマ Bug Water - WaterStrider
 
-#50 Masquerain 
+#50 Masquerain アメモース Bug Flying - MaskMoth
 
-#51 Buizel
+#51 Buizel ブイゼル Water - FloatWeasel
 
-#52 Floatzel
+#52 Floatzel フローゼル Water - Float
 
-#53 Wooper
+#53 Wooper ウパー Water Ground - Woopy
 
-#54 Clodsire
+#54 Clodsire ドオー Poison Ground - Clod
 
 #55 Psyduck コダック Water - Quackers
 
-#56 Golduck 
+#56 Golduck ゴルダック Water - Gold
 
-#57 Chewtle
+#57 Chewtle カムカメ Water - Snapper
 
-#58 Drednaw
+#58 Drednaw カジリガメ Water Rock - Dredger
 
-#59 Igglybuff
+#59 Igglybuff ププリン Normal Fairy - Puff
 
-#60 Jigglypuff プリン Normal - Fairy - PuffPuff
+#60 Jigglypuff プリン Normal Fairy - PuffPuff
 
-#61 Wigglytuff
+#61 Wigglytuff プクリン Normal Fairy - Tuff
 
-#62 Ralts ラルトス Psychic - Fairy - Troi
+#62 Ralts ラルトス Psychic Fairy - Troi
 
-#63 Kirlia
+#63 Kirlia キルリア Psychic Fairy - Dance
 
-#64 Gardevoir
+#64 Gardevoir サーナイト Psychic Fairy - Guard
 
-#65 Gallade
+#65 Gallade エルレイド Psychic Fighting - Blade
 
-#66 Drowzee
+#66 Drowzee スリープ Psychic - Hypnosis
 
-#67 Hypno
+#67 Hypno スリーパー Psychic - Hypno
 
-#68 Gastly
+#68 Gastly ゴース Ghost Poison - Spook
 
-#69 Haunter
+#69 Haunter ゴースト Ghost Poison - Haunt
 
-#70 Gengar
+#70 Gengar ゲンガー Ghost Poison - Shadow
 
-#71 Tandemaus
+#71 Tandemaus ワッカネズミ Normal - Duo
 
-#72 Maushold
+#72 Maushold イッカネズミ Normal - Family
 
-#73 Pichu
+#73 Pichu ピチュー Electric - Spark
 
-#74 Pikachu
+#74 Pikachu ピカチュウ Electric - Thunder
 
-#75 Raichu
+#75 Raichu ライチュウ Electric - Bolt
 
 #76 Fidough パピモッチ Fairy - Scrappy
 
-#77 Dachsbun 
+#77 Dachsbun パウッツェル Fairy - Baked
 
-#78 Slakoth 
+#78 Slakoth ナマケロ Normal - Sloth
 
-#79 Vigoroth 
+#79 Vigoroth ヤルキモノ Normal - Vigorous
 
-#80 Slaking
+#80 Slaking ケッキング Normal - King
 
-#81 Bounsweet アマカジ Grass
+#81 Bounsweet アマカジ Grass - Sweet
 
-#82 Steenee
+#82 Steenee アママイコ Grass - Graceful
 
-#83 Tsareena
+#83 Tsareena アマージョ Grass - Queen
 
-#84 Smoliv ミニーブ Grass - Normal - 
+#84 Smoliv ミニーブ Grass Normal - Olive
 
-#85 Dolliv
+#85 Dolliv オリーニョ Grass Normal - OliveOil
 
-#86 Arboliva
+#86 Arboliva オリーヴァ Grass Normal - OliveTree
 
 #87 Bonsly ウソハチ Rock - BonsaiT
 
-#88 Sudowoodo 
+#88 Sudowoodo ウソッキー Rock - PseudoTree
 
-#89 Rockruff
+#89 Rockruff イワンコ Rock - Ruff
 
-#90 Lycanroc 
+#90 Lycanroc ルガルガン Rock - Lycan
 
-#91 Rolycoly
+#91 Rolycoly タンドン Rock - Coal
 
-#92 Carkol 
+#92 Carkol トロッゴン Rock Fire - Car
 
-#93 Coalossal
+#93 Coalossal セキタンザン Rock Fire - Lossal
 
-#94 Shinx 
+#94 Shinx コリンク Electric - Spark
 
-#95 Luxio
+#95 Luxio ルクシオ Electric - Shocker
 
-#96 Luxray
+#96 Luxray レントラー Electric - Ray
 
-#97 Starly
+#97 Starly ムックル Normal Flying - Star
 
-#98 Starvia
+#98 Staravia ムクバード Normal Flying - Avia
 
-#99 Staraptor
+#99 Staraptor ムクホーク Normal Flying - Raptor
 
-#100 Oricorio オドリドリ Electric Flying - LilFry 
+#100 Oricorio オドリドリ Electric Flying - LilFry
+
 
 #101 Mareep 
 
