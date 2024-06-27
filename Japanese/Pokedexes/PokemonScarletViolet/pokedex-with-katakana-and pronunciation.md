@@ -48,7 +48,7 @@ Katakana keyboard: https://www.lexilogos.com/keyboard/katakana.htm
 
 #23 Pawmo パモット (Pa-mo-tto) Electric Fighting - PunchMouse
 
-#24 Pawmot パモット (Pa-mo-tto) Electric Fighting - ZapPunch
+#24 Pawmot パーモット (Pā-mo-tto) Electric Fighting - ZapPunch
 
 #25 Houndour デルビル (De-ru-bi-ru) Dark Fire - DarkPup
 
