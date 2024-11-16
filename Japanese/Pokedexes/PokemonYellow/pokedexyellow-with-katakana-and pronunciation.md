@@ -12,7 +12,7 @@
 12. Butterfree – バタフリー (Batafurī) – Bug/Flying
 13. Weedle – ビードル (Bīdoru, Beedle) – Bug/Poison
 14. Kakuna – コクーン (Kokūn) – Bug/Poison
-15. Beedrill – スピアー (Supiā) – Bug/Poison
+15. Beedrill – スピアー (Supiā, Spia) – Bug/Poison
 16. Pidgey – ポッポ (Poppo) – Normal/Flying
 17. Pidgeotto – ピジョン (Pijon, Pigeon) – Normal/Flying
 18. Pidgeot – ピジョット (Pijotto) – Normal/Flying
