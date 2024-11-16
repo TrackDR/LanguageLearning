@@ -14,7 +14,7 @@
 14. Kakuna – コクーン (Kokūn) – Bug/Poison
 15. Beedrill – スピアー (Supiā) – Bug/Poison
 16. Pidgey – ポッポ (Poppo) – Normal/Flying
-17. Pidgeotto – ピジョン (Pijon, Pidgeon) – Normal/Flying
+17. Pidgeotto – ピジョン (Pijon, Pigeon) – Normal/Flying
 18. Pidgeot – ピジョット (Pijotto) – Normal/Flying
 19. Rattata – コラッタ (Koratta) – Normal
 20. Raticate – ラッタ (Ratta) – Normal
