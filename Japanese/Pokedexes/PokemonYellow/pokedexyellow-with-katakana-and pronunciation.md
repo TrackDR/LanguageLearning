@@ -9,7 +9,7 @@
 9. Blastoise – カメックス (Kamekkusu) – Water
 10. Caterpie – キャタピー (Kyatapī, Caterpi) – Bug
 11. Metapod – トランセル (Toranseru, Transel, Trancell) – Bug
-12. Butterfree – バタフリー (Batafurī) – Bug/Flying
+12. Butterfree – バタフリー (Batafurī, Butterfree) – Bug/Flying
 13. Weedle – ビードル (Bīdoru, Beedle) – Bug/Poison
 14. Kakuna – コクーン (Kokūn, Cocoon) – Bug/Poison
 15. Beedrill – スピアー (Supiā, Spia) – Bug/Poison
