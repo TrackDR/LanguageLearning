@@ -124,7 +124,7 @@
 124. Jynx – ルージュラ (Rūjura) – Ice/Psychic
 125. Electabuzz – エレブー (Erebū) – Electric
 126. Magmar – ブーバー (Būbā) – Fire
-127. Pinsir – カイロス (Kairosu) – Bug
+127. Pinsir – カイロス (Kairosu, Kairos) – Bug
 128. Tauros – ケンタロス (Kentarosu) – Normal
 129. Magikarp – コイキング (Koikingu) – Water
 130. Gyarados – ギャラドス (Gyaradosu) – Water/Flying
