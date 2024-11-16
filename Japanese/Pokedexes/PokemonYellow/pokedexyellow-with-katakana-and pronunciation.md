@@ -7,14 +7,14 @@
 7. Squirtle – ゼニガメ (Zenigame) – Water
 8. Wartortle – カメール (Kameeru) – Water
 9. Blastoise – カメックス (Kamekkusu) – Water
-10. Caterpie – キャタピー (Kyatapī) – Bug
-11. Metapod – トランセル (Toranseru) – Bug
+10. Caterpie – キャタピー (Kyatapī, Caterpi) – Bug
+11. Metapod – トランセル (Toranseru, Transel, Trancell) – Bug
 12. Butterfree – バタフリー (Batafurī) – Bug/Flying
 13. Weedle – ビードル (Bīdoru) – Bug/Poison
 14. Kakuna – コクーン (Kokūn) – Bug/Poison
 15. Beedrill – スピアー (Supiā) – Bug/Poison
 16. Pidgey – ポッポ (Poppo) – Normal/Flying
-17. Pidgeotto – ピジョン (Pijon) – Normal/Flying
+17. Pidgeotto – ピジョン (Pijon, Pidgeon) – Normal/Flying
 18. Pidgeot – ピジョット (Pijotto) – Normal/Flying
 19. Rattata – コラッタ (Koratta) – Normal
 20. Raticate – ラッタ (Ratta) – Normal
