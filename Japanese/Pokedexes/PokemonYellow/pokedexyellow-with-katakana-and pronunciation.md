@@ -11,7 +11,7 @@
 11. Metapod – トランセル (Toranseru, Transel, Trancell) – Bug
 12. Butterfree – バタフリー (Batafurī) – Bug/Flying
 13. Weedle – ビードル (Bīdoru, Beedle) – Bug/Poison
-14. Kakuna – コクーン (Kokūn) – Bug/Poison
+14. Kakuna – コクーン (Kokūn, Cocoon) – Bug/Poison
 15. Beedrill – スピアー (Supiā, Spia) – Bug/Poison
 16. Pidgey – ポッポ (Poppo) – Normal/Flying
 17. Pidgeotto – ピジョン (Pijon, Pigeon) – Normal/Flying
