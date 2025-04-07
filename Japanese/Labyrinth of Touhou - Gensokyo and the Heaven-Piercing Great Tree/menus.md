@@ -1,6 +1,9 @@
 Full List:
+
 博麗神社（はくれいじんじゃ）
+
 Hakurei Jinja – Hakurei Shrine
+
 	仲間（なかま）のレベルアップ、レベルアップボーナスの割振（わりふ）り、
 	Nakama no reberu appu, reberu appu bōnasu no warifuri,
 	→ “Leveling up allies, allocating level-up bonuses,”
